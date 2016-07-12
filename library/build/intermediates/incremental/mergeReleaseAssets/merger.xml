@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\AS\AEworkspace\SmartBeijin\library\assets"/><source path="F:\AS\AEworkspace\SmartBeijin\library\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="F:\AS\AEworkspace\SmartBeijin\library\src\release\assets"/></dataSet></merger>
